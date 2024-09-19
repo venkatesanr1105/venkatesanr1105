@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... venkatesanrajendran11@gmail.com
+- 📫 How to reach me ... venkypersonal2@gmail.com
 
 <!---
 venkatesanr1105/venkatesanr1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
